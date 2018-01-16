@@ -38,7 +38,7 @@ END;
     function displayTitle()
     {
         echo '<title>'.$this->title.'</title>
-        <link type="text/css" rel="stylesheet" href="css/ipsn2.css" />
+        <link type="text/css" rel="stylesheet" href="css/ipsn3.css" />
 		<link type="text/css" rel="stylesheet" href="css/style2.css" />
 		<link rel="stylesheet" href="css/MygoogleBar.css" type="text/css" />
 		<script type="text/javascript" language="javascript" src="js/functions.js"></script>
